@@ -3,7 +3,7 @@
 This is the code I used for the analysis or the sensor data and survey data.
 ## Anonymised data
 
-Data in this repository is fully randomised according to my DMP. Numeric readings (dBA, sharpness) are random values within a plausible range, event labels and survey answers are randomly drawn from their respective category sets. 
+Data in this repository is fully randomised according to my DMP. Numeric readings (dBA, sharpness) are random values within a plausible range, event labels and survey answers are randomly drawn from their respective category sets. You will need to extract the "Data" ZIP file before running files in this folder.
 
 ## Notebooks
 
